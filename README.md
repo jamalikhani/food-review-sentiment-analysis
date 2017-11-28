@@ -5,8 +5,8 @@
 James Alikhani   
 August 2017
 
-The Amazon Fine Food Reviews dataset, from [Kaggle](https://www.kaggle.com/snap/amazon-fine-food-reviews), consists of 568,454 food reviews Amazon users left up to October 2012 is used in this calssification, natural language processing (NLP) practice to extract information from text reviews and apply it to train a predictive model. 
-Each text review is labled from 1 to 5 by the user. The goal of this practice is to construct a predictive model to see an unlabeled recommendation is sentimentally positive or negative. This helps websites with an online review to extract information about their products to improve their businesses. 
+The Amazon Fine Food Reviews dataset, from [Kaggle](https://www.kaggle.com/snap/amazon-fine-food-reviews), consists of 568,454 food reviews Amazon users left up to October 2012, is used in this calssification-NLP practice to extract information from text data and apply it to train a predictive model. 
+Each text review is labled from 1 to 5 by the user. The goal of this practice is to construct a predictive model to see an unlabeled review is sentimentally positive or negative. This helps websites with an online review to extract information about their products to improve their businesses. 
 
 
 
